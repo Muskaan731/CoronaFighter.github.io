@@ -1,1 +1,1 @@
-# CoronaFighter.github.io
+# CoronaFighter
